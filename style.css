@@ -1,1 +1,22 @@
+h1{
+  background: black;
+  color: rgb(44, 150, 199);
+}
+p{
+ background: black;
+  color: rgb(226, 168, 43);
 
+}
+ h3{
+   background: black;
+  color: rgb(43, 185, 85);
+ }
+
+ body{
+   background:pink;
+
+ }
+ img{
+   margin:25px;
+
+ }
